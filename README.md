@@ -3,6 +3,7 @@
 Joins meetings at a given time
 
 BEFORE YOU START--
+
 1)You should be loggedin in into your zoom account from your default browser
 
 2)Should have python 3 installed
