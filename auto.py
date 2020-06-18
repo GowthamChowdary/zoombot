@@ -3,7 +3,7 @@ import pyautogui as py
 import time
 from datetime import datetime
 meetid=input("What's the meeting id?  ")
-when=input("Enter the date and time in the format : 'month/day/year:hour:min:sec' eg- 06/18/20:19:30  ")
+when=input("Enter the date and time in the format : 'month/day/year:hour:min:' eg- 06/18/20:19:30  ")
 print("waiting to join")
 while True:
 	now=datetime.now()
